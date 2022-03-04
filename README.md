@@ -19,6 +19,6 @@ Jeu Platformer développé par Stamina comportant différent mode de jeux tels q
  Partie combat en multijoueur du jeu, du même type que Brawlhalla, mais en gardant les canvas de Stamina pour les différentes compétences.
  
  
- ## Nota bene
+ ### Nota bene
  
  La section est incomplète et sera remplie au fur et à mesure de l'avancée du jeu.
